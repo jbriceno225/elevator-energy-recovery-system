@@ -27,14 +27,14 @@ This work focused on system-level design, modeling, and engineering analysis rat
 ## Kinetic Energy Recovery System (KERS)
 
 ### System Concept
-<img src="media/kers_system.png" width="500"/>
+<img src="media/kers_system_1_tube.png" width="500"/>
 
 Conceptual design showing a coil-magnet system integrated into an elevator. As the elevator moves, the relative motion between the magnet and coil induces voltage, which can be rectified and stored as electrical energy.
 
 
 
 ### Alternative Design: Counterweight Integration
-<img src="media/kers_counterweight.png" width="500"/>
+<img src="media/kers_system_2_counterweight.png" width="500"/>
 
 Alternative approach where the energy recovery system is integrated into the elevator counterweight, reducing system complexity and improving mechanical integration.
 
