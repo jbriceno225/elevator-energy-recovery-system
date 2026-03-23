@@ -38,7 +38,6 @@ Conceptual design showing a coil-magnet system integrated into an elevator. As t
 
 Alternative approach where the energy recovery system is integrated into the elevator counterweight, reducing system complexity and improving mechanical integration.
 
----
 
 ## Engineering Analysis
 - Applied Faraday’s Law to model induced voltage  
