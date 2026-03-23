@@ -74,8 +74,7 @@ Presented project findings and design concepts to KLEEMANN R&D engineers in a fo
 ## Project Structure
 /docs    -> Full project report  
 /media   -> Diagrams and visuals  
-
-
+/presentation -> Full project presentation
 
 ## Full Report
 See full project report:  
