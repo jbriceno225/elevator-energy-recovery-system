@@ -14,7 +14,6 @@ This work focused on system-level design, modeling, and engineering analysis rat
 - Improve lifecycle efficiency and sustainability  
 - Explore scalable and cost-effective engineering solutions  
 
-
 ## My Contributions
 - Contributed to the conceptual design of energy recovery systems  
 - Analyzed coil-magnet systems using electromagnetic induction (Faraday’s Law)  
@@ -22,15 +21,12 @@ This work focused on system-level design, modeling, and engineering analysis rat
 - Participated in system-level modeling and engineering analysis  
 - Collaborated in a multidisciplinary global engineering team  
 
-
-
 ## Kinetic Energy Recovery System (KERS)
 
 ### System Concept
 <img src="media/kers_system_1_tube.PNG" width="500"/>
 
 Conceptual design showing a coil-magnet system integrated into an elevator. As the elevator moves, the relative motion between the magnet and coil induces voltage, which can be rectified and stored as electrical energy.
-
 
 
 ### Alternative Design: Counterweight Integration
@@ -45,13 +41,11 @@ Alternative approach where the energy recovery system is integrated into the ele
 - Analyzed power output, efficiency, and feasibility  
 - Compared multiple designs based on cost, complexity, and performance  
 
-
 ## Lifecycle & Sustainability
 - Explored circular economy strategies for elevator systems  
 - Evaluated remanufacturing and reuse of components  
 - Investigated Industry 4.0 concepts such as smart manufacturing  
 - Considered environmental impact and regulatory requirements  
-
 
 ## Industry Presentation Experience
 Presented project findings and design concepts to KLEEMANN R&D engineers in a formal presentation setting.
@@ -59,7 +53,6 @@ Presented project findings and design concepts to KLEEMANN R&D engineers in a fo
 - Communicated technical concepts and system designs to industry professionals  
 - Responded to questions, feedback, and engineering concerns in a live Q&A  
 - Defended design decisions and evaluated alternative approaches  
-
 
 ## Key Concepts
 - Kinetic Energy Recovery Systems (KERS)  
@@ -69,17 +62,18 @@ Presented project findings and design concepts to KLEEMANN R&D engineers in a fo
 - Sustainable engineering  
 - System-level design and tradeoff analysis  
 
-
-
 ## Project Structure
-/docs    -> Full project report  
-/media   -> Diagrams and visuals  
-/presentation -> Full project presentation
+- `/docs` -> Full project report
+- `/media` -> Diagrams and visuals
+- `/presentation` -> Final project presentation
 
 ## Full Report
 See full project report:  
 `docs/project_report.pdf`
 
+## Presentation
+Final presentation delivered to KLEEMANN R&D:
+`presentation/final_presentation.pdf`
 
 ## What I Learned
 - Designing engineering systems without physical prototypes  
