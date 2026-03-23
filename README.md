@@ -7,7 +7,6 @@ The objective was to develop conceptual designs for kinetic energy recovery syst
 
 This work focused on system-level design, modeling, and engineering analysis rather than physical implementation.
 
----
 
 ## Key Objectives
 - Reduce energy losses during elevator operation  
@@ -15,7 +14,6 @@ This work focused on system-level design, modeling, and engineering analysis rat
 - Improve lifecycle efficiency and sustainability  
 - Explore scalable and cost-effective engineering solutions  
 
----
 
 ## My Contributions
 - Contributed to the conceptual design of energy recovery systems  
@@ -24,7 +22,7 @@ This work focused on system-level design, modeling, and engineering analysis rat
 - Participated in system-level modeling and engineering analysis  
 - Collaborated in a multidisciplinary global engineering team  
 
----
+
 
 ## Kinetic Energy Recovery System (KERS)
 
@@ -33,12 +31,12 @@ This work focused on system-level design, modeling, and engineering analysis rat
 
 Conceptual design showing a coil-magnet system integrated into an elevator. As the elevator moves, the relative motion between the magnet and coil induces voltage, which can be rectified and stored as electrical energy.
 
----
+
 
 ### Alternative Design: Counterweight Integration
 <img src="media/kers_counterweight.png" width="500"/>
 
-An alternative approach where the energy recovery system is integrated into the elevator counterweight, reducing system complexity and improving mechanical integration.
+Alternative approach where the energy recovery system is integrated into the elevator counterweight, reducing system complexity and improving mechanical integration.
 
 ---
 
@@ -48,7 +46,6 @@ An alternative approach where the energy recovery system is integrated into the 
 - Analyzed power output, efficiency, and feasibility  
 - Compared multiple designs based on cost, complexity, and performance  
 
----
 
 ## Lifecycle & Sustainability
 - Explored circular economy strategies for elevator systems  
@@ -56,7 +53,6 @@ An alternative approach where the energy recovery system is integrated into the 
 - Investigated Industry 4.0 concepts such as smart manufacturing  
 - Considered environmental impact and regulatory requirements  
 
----
 
 ## Industry Presentation Experience
 Presented project findings and design concepts to KLEEMANN R&D engineers in a formal presentation setting.
@@ -65,7 +61,6 @@ Presented project findings and design concepts to KLEEMANN R&D engineers in a fo
 - Responded to questions, feedback, and engineering concerns in a live Q&A  
 - Defended design decisions and evaluated alternative approaches  
 
----
 
 ## Key Concepts
 - Kinetic Energy Recovery Systems (KERS)  
@@ -75,19 +70,18 @@ Presented project findings and design concepts to KLEEMANN R&D engineers in a fo
 - Sustainable engineering  
 - System-level design and tradeoff analysis  
 
----
+
 
 ## Project Structure
 /docs    -> Full project report  
 /media   -> Diagrams and visuals  
 
----
+
 
 ## Full Report
 See full project report:  
 `docs/project_report.pdf`
 
----
 
 ## What I Learned
 - Designing engineering systems without physical prototypes  
