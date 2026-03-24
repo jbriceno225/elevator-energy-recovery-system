@@ -67,13 +67,11 @@ Presented project findings and design concepts to KLEEMANN R&D engineers in a fo
 - `/media` -> Diagrams and visuals
 - `/presentation` -> Final project presentation
 
-## Full Report
-See full project report:  
-`docs/project_report.pdf`
+## Documentation
+[View Project Report](docs/project_report.pdf)  
+[View Presentation](docs/final_presentation.pdf)
 
-## Presentation
-Final presentation delivered to KLEEMANN R&D:
-`presentation/final_presentation.pdf`
+Includes system modeling, energy recovery analysis, and evaluation of multiple design approaches for integrating KERS into traction elevators.
 
 ## What I Learned
 - Designing engineering systems without physical prototypes  
